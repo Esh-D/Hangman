@@ -9,33 +9,6 @@ Hangman Game -
    same word for every program run.
    -However, the program will work with any word of any length so you can
    manually change the word and play again
-
-Personal Feedback:
-    -My solution and the implementation process of that solution was disorganized,
-    I should have spent more time in the planning stage (Analysis & Design) so
-    that the Implementation stage would have gone smoother and I would have had a
-    clearer idea of how the program would work
-    
-    -I broke the problem into seperate pieces but I didn't plan out what I was
-    going to implement first and then second, etc. I should have done that, less
-    confusion and would have finished faster
-
-    -I shouldn't rush ahead of the planning process and into implementation even if I
-    think a project is "easy", like I did with this one. This goes to show that even 
-    simple projects can confuse you if you aren't mentally clear on how you are going
-    to implement something
-        - This confusion / vagueness will be worse for larger more complex projects
-        - I did finish it though, because again it is an easy program to make, but I
-        don't think it is the best solution I could have made and it took me longer to
-        implement than I thought it would
-
-    -My focus with these projects should be to strengthen my coding process
-        - Truly understanding the project and my plan before jumping in
-        - Basically: have a more logical, organized, and clear workflow
-        - Aim is to create great solutions with reduced implementation time
-
-        - Clearly identify "This is what I'm setting out to do, this is how I'm going
-        to do it, and then do it"
     
 '''
 import hangCheck
