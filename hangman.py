@@ -4,7 +4,7 @@ June 1 2020
 CS/CE Personal Curriculum Project 1
 Hangman Game -
    Notes:
-   -User can only play one round and then program ends.
+   -User can play one round and then program ends.
    -The word the user is trying to guess is hardcoded, so it will be the
    same word for every program run.
    -However, the program will work with any word of any length so you can
